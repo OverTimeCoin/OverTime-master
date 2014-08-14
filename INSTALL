@@ -1,0 +1,4 @@
+Building Spaetacus
+See doc/readme-qt.rst for instructions on building Spaetacus QT.
+
+See doc/build-*.txt for instructions on building Spaetacusd.
